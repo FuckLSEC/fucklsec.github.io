@@ -55,7 +55,7 @@ Copyright 2020 (C) KhrysusDev*/
     padding: 12px;
     width: 150px;
     display: inline-block;
-    background: #ef6c00;
+    background: #00b3b3;
     text-decoration: none !important;
     color: #fff;
     border: 2px solid #fff;
@@ -69,7 +69,7 @@ Copyright 2020 (C) KhrysusDev*/
 }
 .express-btn{
     background: #fff !important;
-    color: #ef6c00 !important;
+    color: #00b3b3 !important;
     margin-right: 5px;
     box-shadow: 0 9px 9px 1px rgba(204,204,204,0.5);
 }
