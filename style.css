@@ -79,7 +79,7 @@ Copyright 2020 (C) xericyy*/
     width: 180px;
     margin: auto;
     display: block;
-    color: #ef6c00;
+    color: #00b3b3;
     font-size: 14px;
     font-weight: bold;
     background: #fff;
@@ -93,7 +93,7 @@ Copyright 2020 (C) xericyy*/
 }
 .express-btn{
     align-self: center;
-    background: #ef6c00 !important;
+    background: #00b3b3 !important;
     color: #fff !important;
     margin-right: 5px;
     box-shadow: 0 9px 9px 1px rgba(204,204,204,0.5);
