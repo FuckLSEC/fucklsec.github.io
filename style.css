@@ -68,8 +68,8 @@ Copyright 2020 (C) xericyy*/
     color: #fff;
 }
 .express-btn{
-    background: #fff !important;
-    color: #00e6e6; !important;
+    background: #00e6e6 !important;
+    color: #fff; !important;
     margin-right: 5px;
     box-shadow: 0 9px 9px 1px rgba(204,204,204,0.5);
 }
