@@ -68,8 +68,8 @@ Copyright 2020 (C)-*/
     color: #fff;
 }
 .express-btn{
-    background: #fff !important;
-    color: #00b3b3 !important;
+    background: #00b3b3 !important;
+    color: #fff !important;
     margin-right: 5px;
     box-shadow: 0 9px 9px 1px rgba(204,204,204,0.5);
 }
@@ -79,10 +79,10 @@ Copyright 2020 (C)-*/
     width: 180px;
     margin: auto;
     display: block;
-    color: #00b3b3;
+    color: #fff;
     font-size: 14px;
     font-weight: bold;
-    background: #fff;
+    background: #00b3b3;
     border-radius: 5px;
     padding: 15px 10px;
     border: #fff;
@@ -93,8 +93,8 @@ Copyright 2020 (C)-*/
 }
 .express-btn{
     align-self: center;
-    background: #00b3b3 !important;
-    color: #fff !important;
+    background: #fff !important;
+    color: #00b3b3 !important;
     margin-right: 5px;
     box-shadow: 0 9px 9px 1px rgba(204,204,204,0.5);
 }
