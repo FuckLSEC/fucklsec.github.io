@@ -55,13 +55,11 @@ Copyright 2020 (C)-*/
 }
 .banner img{
     max-height: 500px;
+    border-radius: 10px;
+    box-shadow: 0 9px 9px 1px rgba(64,64,64,0.5) !important;
 }
 .img-fluid{
     border-radius: 10px;
-}
-.navbar-brand{
-    border-radius: 10px;
-    box-shadow: 0 9px 9px 1px rgba(64,64,64,0.5) !important;
 }
 .banner a{
     padding: 12px;
