@@ -84,7 +84,7 @@ Copyright 2020 (C)-*/
 }
 .express-btn{
     background: #fff !important;
-    color: #00b3b3 !important;
+    color: transparent !important;
     margin-right: 5px;
     box-shadow: 0 9px 9px 1px rgba(204,204,204,0.5) !important;
     transition: .4s;
