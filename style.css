@@ -55,8 +55,10 @@ Copyright 2020 (C)-*/
 }
 .banner img{
     max-height: 500px;
+}
+.navbar-brand img{
     border-radius: 10px;
-    box-shadow: 0 9px 9px 1px rgba(64,64,64,0.5) !important;
+    box-shadow: 0 9px 9px 1px (64,64,64,0.5) !important;
 }
 .img-fluid{
     border-radius: 10px;
